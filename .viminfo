@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1626501160,,"wq"
+|2,0,1626501792,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -34,24 +34,40 @@
 |3,1,36,0,1,0,1626435672,"r"
 
 # File marks:
-'0  1  8  ~/2.java
-|4,48,1,8,1626501160,"~/2.java"
-'1  4  9  ~/hello-world/.gitignore
-|4,49,4,9,1626441354,"~/hello-world/.gitignore"
-'2  1  7  ~/hello-world/1.java
-|4,50,1,7,1626440098,"~/hello-world/1.java"
-'3  1  6  ~/hello-world/1.java
-|4,51,1,6,1626438267,"~/hello-world/1.java"
-'4  1  5  ~/edujuly12/edujuly/1.java
-|4,52,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+'0  4  9  ~/.gitignore
+|4,48,4,9,1626501792,"~/.gitignore"
+'1  1  8  ~/2.java
+|4,49,1,8,1626501160,"~/2.java"
+'2  4  9  ~/hello-world/.gitignore
+|4,50,4,9,1626441354,"~/hello-world/.gitignore"
+'3  1  7  ~/hello-world/1.java
+|4,51,1,7,1626440098,"~/hello-world/1.java"
+'4  1  6  ~/hello-world/1.java
+|4,52,1,6,1626438267,"~/hello-world/1.java"
+'5  1  5  ~/edujuly12/edujuly/1.java
+|4,53,1,5,1626435682,"~/edujuly12/edujuly/1.java"
 
 # Jumplist (newest first):
+-'  4  9  ~/.gitignore
+|4,39,4,9,1626501792,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1626501668,"~/.gitignore"
+-'  1  8  ~/2.java
+|4,39,1,8,1626501160,"~/2.java"
 -'  1  8  ~/2.java
 |4,39,1,8,1626501160,"~/2.java"
 -'  4  9  ~/hello-world/.gitignore
 |4,39,4,9,1626441354,"~/hello-world/.gitignore"
 -'  4  9  ~/hello-world/.gitignore
 |4,39,4,9,1626441354,"~/hello-world/.gitignore"
+-'  4  9  ~/hello-world/.gitignore
+|4,39,4,9,1626441354,"~/hello-world/.gitignore"
+-'  4  9  ~/hello-world/.gitignore
+|4,39,4,9,1626441354,"~/hello-world/.gitignore"
+-'  1  0  ~/hello-world/.gitignore
+|4,39,1,0,1626441215,"~/hello-world/.gitignore"
+-'  1  0  ~/hello-world/.gitignore
+|4,39,1,0,1626441215,"~/hello-world/.gitignore"
 -'  1  0  ~/hello-world/.gitignore
 |4,39,1,0,1626441215,"~/hello-world/.gitignore"
 -'  1  0  ~/hello-world/.gitignore
@@ -64,6 +80,14 @@
 |4,39,1,7,1626440098,"~/hello-world/1.java"
 -'  1  7  ~/hello-world/1.java
 |4,39,1,7,1626440098,"~/hello-world/1.java"
+-'  1  7  ~/hello-world/1.java
+|4,39,1,7,1626440098,"~/hello-world/1.java"
+-'  1  7  ~/hello-world/1.java
+|4,39,1,7,1626440098,"~/hello-world/1.java"
+-'  1  7  ~/hello-world/1.java
+|4,39,1,7,1626440098,"~/hello-world/1.java"
+-'  1  7  ~/hello-world/1.java
+|4,39,1,7,1626440098,"~/hello-world/1.java"
 -'  1  6  ~/hello-world/1.java
 |4,39,1,6,1626438267,"~/hello-world/1.java"
 -'  1  6  ~/hello-world/1.java
@@ -72,6 +96,46 @@
 |4,39,1,6,1626438267,"~/hello-world/1.java"
 -'  1  6  ~/hello-world/1.java
 |4,39,1,6,1626438267,"~/hello-world/1.java"
+-'  1  6  ~/hello-world/1.java
+|4,39,1,6,1626438267,"~/hello-world/1.java"
+-'  1  6  ~/hello-world/1.java
+|4,39,1,6,1626438267,"~/hello-world/1.java"
+-'  1  6  ~/hello-world/1.java
+|4,39,1,6,1626438267,"~/hello-world/1.java"
+-'  1  6  ~/hello-world/1.java
+|4,39,1,6,1626438267,"~/hello-world/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
+-'  1  5  ~/edujuly12/edujuly/1.java
+|4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
 -'  1  5  ~/edujuly12/edujuly/1.java
 |4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
 -'  1  5  ~/edujuly12/edujuly/1.java
@@ -106,6 +170,13 @@
 |4,39,1,5,1626435682,"~/edujuly12/edujuly/1.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/.gitignore
+	*	1626501788	0
+	"	4	9
+	^	4	10
+	.	4	9
+	+	4	9
 
 > ~/2.java
 	*	1626501159	0
